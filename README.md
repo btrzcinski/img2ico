@@ -9,6 +9,7 @@ Get the [latest release here](https://github.com/btrzcinski/img2ico/releases).
 ## Instructions
 
 Given an input PNG file `sample.png`, create an `output.ico` with:
+
 `C:\..\Img2Ico> Img2Ico.exe sample.png output.ico`
 
 ## What It Does
